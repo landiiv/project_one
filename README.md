@@ -1,5 +1,5 @@
 # project_one
 
-Authors
+<h2>Authors</h2>
 
 landiiv 
