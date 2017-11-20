@@ -1,5 +1,5 @@
 # project_one
 
-#Authors
+Authors
 
 landiiv 
